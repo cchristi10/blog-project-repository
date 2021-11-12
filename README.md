@@ -22,7 +22,7 @@ Home Page:
 
 Post Detail Page:
 
-![post_detail_page](https://user-images.githubusercontent.com/93693545/141520000-c63ac7c0-49b6-40a4-ac8b-5edeed3b38ad.png)
+![post_detail_page](https://user-images.githubusercontent.com/93693545/141532186-bc7c62f0-076c-4eb7-8c35-f689aca2ab85.png)
 
 
 Login Page:
