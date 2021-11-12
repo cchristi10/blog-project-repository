@@ -1,6 +1,6 @@
 # blog-project-repository
 
-A single use blog website developed in Django Framework using python, html, css and javascript.
+A blog website developed in Django Framework using python, html, css and javascript.
 
 Share post and coments.
 
