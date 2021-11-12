@@ -10,7 +10,10 @@ To run the project locally:
 
 cd to mysite folder and use the command python manage.py runserver.
 
-Copy the server link and paste in on the browser and if successful the website should be running.
+Copy the server link and paste in on the browser and if successful the website should be running
+
+To create a superuser:
+In terminal under mysite folder type the following command: python manage.py createsuperuser
 
 Home Page:
 
