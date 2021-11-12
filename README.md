@@ -19,7 +19,8 @@ Home Page:
 
 Post Detail Page:
 
-![post_detail](https://user-images.githubusercontent.com/93693545/141518940-d42eaa1f-5763-44be-a7b8-d97da01e7f6c.png)
+![post_detail_page](https://user-images.githubusercontent.com/93693545/141520000-c63ac7c0-49b6-40a4-ac8b-5edeed3b38ad.png)
+
 
 Login Page:
 
