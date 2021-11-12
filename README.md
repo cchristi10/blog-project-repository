@@ -1,6 +1,8 @@
 # blog-project-repository
 
 A blog website developed in Django Framework using python, html, css and javascript.
+A superuser can create, update delete posts and comments.
+Anybody can comment on the posts but only superuser can verify and choose what comments to display.
 
 Share post and coments.
 
